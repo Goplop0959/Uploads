@@ -6,3 +6,4 @@
 Pompeii1[[:space:]](2).mp4 filter=lfs diff=lfs merge=lfs -text
 uploads/Pompeii1[[:space:]](2).mp4 filter=lfs diff=lfs merge=lfs -text
 uploads/Pompeii1[[:space:]](2).mp4 filter=lfs diff=lfs merge=lfs -text
+uploads/Pompeii2.mp4 filter=lfs diff=lfs merge=lfs -text
