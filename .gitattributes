@@ -152,3 +152,4 @@ DistributeUploads/Uploads/8ef72a4d-9b1b-4fb7-83e9-e5d15c1634cf.bin filter=lfs di
 DistributeUploads/Uploads/f05de24a-3618-43dc-8ddc-17fcb38fa62e.bin filter=lfs diff=lfs merge=lfs -text
 DistributeUploads/Uploads/16f07a13-9e8c-453a-a1a8-0852e00c65c1.bin filter=lfs diff=lfs merge=lfs -text
 DistributeUploads/Uploads/c89b74b8-2b02-48ee-8dbe-926b5175de5b.bin filter=lfs diff=lfs merge=lfs -text
+DistributeUploads/Manifests/35ea44b3-76b3-43e1-9317-86287bcaf480.json filter=lfs diff=lfs merge=lfs -text
